@@ -65,7 +65,7 @@ section { display: flex; }
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 700;
-  letter-spacing: .2px;
+  letter-spacing: 0.2px;
 }
 .profile { margin-left: auto;}
 .account {
